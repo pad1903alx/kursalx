@@ -1,4 +1,5 @@
 # Pliki z kursu
 
 
-### Dzien06
+Zawartość kursu ALX
+
